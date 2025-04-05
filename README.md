@@ -1,2 +1,2 @@
 # ShMem
-Shared Memory access example
+Shared Memory access example (GPL License).
